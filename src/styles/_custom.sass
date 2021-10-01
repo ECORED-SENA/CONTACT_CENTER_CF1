@@ -1,0 +1,371 @@
+.banner-interno__titulo__icono i
+  color: #111e61 !important
+
+.lista-ul__vineta::before
+  line-height: 0.8em
+  font-size: 30px
+
+.cajon.color-secundario
+  background-color: #FEFAF7
+
+.cajon.color-secundario::before
+  background-color: #EF6C00
+
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario:hover
+  background-color: #FEFAF7
+  h3,p
+    color: #0F0140
+
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario
+  background-color: #0F0140
+  h3,p
+    color: #DAD6F7
+
+.titulo-sexto p
+  display: inline-block
+  margin-right: 10px
+  margin-bottom: 0
+
+.tarjeta--gris
+  background-color: #EFEDF8
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot
+  border-color: #B0C0D2
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::before, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::after
+  background-color: #3E33A3
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container::before
+  background-color: #3E33A3
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #3E33A3
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot::after
+  background-color: #3E33A3
+
+.img-infografica.color-secundario .img-infografica__item__dot::before, .img-infografica.color-secundario .img-infografica__item__dot::after, .img-infografica.color-secundario .img-infografica-b__item__dot::before, .img-infografica.color-secundario .img-infografica-b__item__dot::after, .img-infografica-b.color-secundario .img-infografica__item__dot::before, .img-infografica-b.color-secundario .img-infografica__item__dot::after, .img-infografica-b.color-secundario .img-infografica-b__item__dot::before, .img-infografica-b.color-secundario .img-infografica-b__item__dot::after
+  background-color: #EF6C00
+
+.tarjeta.color-acento-botones
+  background-color: white
+  p
+    color: black
+
+.tarjeta--azul
+  background-color: #12263F
+  background-image: url(../assets/curso/img40.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.contenedor1
+  margin: 0px
+  padding: 0px
+  box-sizing: border-box
+  width: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+  height: 41vh
+
+.contenedor1 figure
+  position:relative
+  height: 250px
+  width: 350px
+  overflow: hidden
+  border-radius: 6px
+  box-shadow: 0px 15px 25px rgba(0,0,0,0.20)
+
+.contenedor1 figure img
+  width: 100%
+  height: 100%
+  transition: all 400ms ease-out
+  will-change: transform
+
+.contenedor1 figure .capa1
+  position: relative
+  top: -330px
+  left: -75px
+  width: 500px
+  height: 500px
+  background: rgba(60,46,166,0.3)
+  transition: all 400ms ease-out
+  opacity: 0
+  visibility: hidden
+  text-align: center
+
+.contenedor1 figure:hover > .capa1
+  opacity: 1
+  visibility: visible
+
+.contenedor1 figure:hover > .capa1 h3
+  top: -40px
+  margin-top: 70px
+  margin-bottom: 15px
+  padding-top: 40px
+  top: -20px
+
+.contenedor1 figure:hover > img
+  transform: scale(1.3)
+
+.contenedor1 figure .capa1 h3
+  color: #EF6C00
+  font-weight: bolder
+  font-size: 30px
+  transition: all 400ms ease-out
+  margin-top: 30px
+  line-height: 1.5
+  width: 33%
+  max-width: 220px
+  left: 90px
+  top: 11px
+  position: relative
+
+.contenedor1 figure .capa1 p
+  color: #fff
+  font-size: 14px
+  line-height: 1.5
+  width: 100%
+  max-width: 220px
+  margin-left: 160px
+  position: relative
+  top: -90px
+  left: 45px
+  padding-top: 11px
+  padding-bottom: 11.5px
+  padding-right: 40px
+  padding-left: 20px
+
+.txt-deco1
+  background-color: #DAD6F7
+  padding: 3px
+
+.txt-deco2
+  color: #3E2EA6
+
+.bg-color1
+  background-image: url(../assets/curso/img2.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-size: 400px
+  background-position: right
+
+.bg-color2
+  background-color: #F9F8FF
+
+.bg-color3
+  background-color: #8A7CBF
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: relative
+    bottom: -150px
+    left: -60px
+    width: 0%
+    height: 0%
+    border-right: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+@media screen and ( max-width: 990px )
+  .bg-color3
+    background-color: #8A7CBF
+    p
+      z-index: 1
+    &::before
+      content: ""
+      position: relative
+      top: -80px
+      left: 45%
+      width: 0%
+      height: 0%
+      border-left: 40px solid transparent
+      border-bottom: 30px solid #8A7CBF
+      border-right: 40px solid transparent
+      z-index: 2
+      display: block
+
+.bg-color4
+  background-image: url(../assets/curso/img5.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg-color5
+  background-color: #3E2EA6
+
+.bg-color6
+  background-image: url(../assets/curso/img8.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-size: 400px
+  background-position: right bottom
+
+.bg-color7
+  background-color: #F9F8FF
+  margin-inline: -3.2rem !important
+
+.bg-color8
+  height: 180px
+  figure,h3
+    z-index: 1
+    position: relative
+  &::before
+    content: ""
+    position: relative
+    bottom: -160px
+    width: 99%
+    height: 6%
+    background-color: #05DBF2
+    z-index: 2
+    display: block
+
+.bg-color9
+  background-image: url(../assets/curso/img18.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  border-radius: 20px
+
+.bg-color10
+  background-image: url(../assets/curso/img28.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  width: 300px
+
+.bg-color11
+  background-color: #8A7CBF
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: relative
+    bottom: -180px
+    right: -104%
+    width: 0%
+    height: 0%
+    border-left: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+@media screen and ( max-width: 990px )
+  .bg-color11
+    background-color: #8A7CBF
+    p
+      z-index: 1
+    &::before
+      content: ""
+      position: relative
+      bottom: -105%
+      left: 43%
+      width: 0%
+      height: 0%
+      border-left: 40px solid transparent
+      border-top: 50px solid #8A7CBF
+      border-right: 40px solid transparent
+      z-index: 2
+      display: block
+
+.bg-color12
+  background-image: url(../assets/curso/img35.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-size: 300px
+  background-position: left
+
+.bg-color13
+  background-color: white
+  background-repeat: no-repeat
+  background-size: contain
+  width: 300px
+  border-radius: 20px
+  border: 5px #F6F6F6 solid
+
+.bg-color14
+  background-color: #F6F6F6
+  margin-inline: -3.2rem !important
+
+.bg-color15
+  height: 370px
+  figure,h3,p
+    z-index: 1
+    position: relative
+  &::before
+    content: ""
+    position: relative
+    bottom: -347px
+    width: 99%
+    height: 3%
+    background-color: #05DBF2
+    z-index: 2
+    display: block
+
+.bg-color16
+  background-image: url(../assets/curso/img57.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-size: 370px
+  background-position: right
+
+.bg-color17
+  background-color: #DAD6F7
+
+.bg-color18
+  background-color: #F9F8FF
+
+.bg-color19
+  background-color: #8A7CBF
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: relative
+    bottom: -160px
+    left: -60px
+    width: 0%
+    height: 0%
+    border-right: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+@media screen and ( max-width: 990px )
+  .bg-color19
+    background-color: #8A7CBF
+    p
+      z-index: 1
+    &::before
+      content: ""
+      position: relative
+      top: -80px
+      left: 40%
+      width: 0%
+      height: 0%
+      border-left: 40px solid transparent
+      border-bottom: 30px solid #8A7CBF
+      border-right: 40px solid transparent
+      z-index: 2
+      display: block
+
+.bg-color20
+  height: 240px
+  figure,h3
+    z-index: 1
+    position: relative
+  &::before
+    content: ""
+    position: relative
+    bottom: -220px
+    width: 99%
+    height: 3%
+    background-color: #05DBF2
+    z-index: 2
+    display: block
