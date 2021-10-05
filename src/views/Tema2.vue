@@ -82,7 +82,7 @@
         .row.align-items-center
           .col-12
             p.text-white Como se mencionaba previamente, el concepto de mercado tiene una interpretación diferente (aunque complementaria) al concepto económico. En términos de mercadeo, este es el conjunto de personas o empresas a las cuales está dirigido el bien o servicio. 
-            p.text-white Por ejemplo, si yo vendo celulares a través de una línea de Contact Center, mi mercado es el conjunto de personas que requieren tener un celular.
+            p.text-white Por ejemplo, si yo vendo celulares a través de una línea de #[i Contact Center], mi mercado es el conjunto de personas que requieren tener un celular.
             p.mb-0.text-white Como consecuencia de lo anterior, se tienen diferentes niveles de mercado, los cuales se pueden revisar en el siguiente recurso de aprendizaje:
       .col-9.col-lg-5.px-0
         figure
@@ -156,7 +156,7 @@
     #t_2_3
     .titulo-segundo
       h2 2.3 Mezcla de mercadeo
-    p Marketing mix, en inglés, representa la base conceptual para la implementación de las estrategias de mercadeo. Fue creada por Jerome McCarthy, alrededor del año 1970, y está constituida por cuatro variables, sobre las cuales se fundamenta el quehacer del proceso de mercadeo dentro de las empresas. 
+    p #[i Marketing mix], en inglés, representa la base conceptual para la implementación de las estrategias de mercadeo. Fue creada por Jerome McCarthy, alrededor del año 1970, y está constituida por cuatro variables, sobre las cuales se fundamenta el quehacer del proceso de mercadeo dentro de las empresas. 
     p.mb-5 Conozca cuáles son las variables que conforman la mezcla de mercadeo:
     .row.justify-content-center.align-items-center
       .col-8.col-lg-5

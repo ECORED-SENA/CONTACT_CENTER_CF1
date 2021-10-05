@@ -34,13 +34,20 @@
               h3.text-center Tener poder de decisión para la compra del producto
     .row.bg-color16.px-5
       .col-12
-        .row.align-items.center.mb-5
+        .row.align-items.center.mb-4
           .col-lg-6.mb-4.mb-lg-0
             p Si estos tres aspectos no se cumplen, se considera, a nivel comercial, que no se debería desgastar el vendedor, porque se realizará un proceso de venta con poca probabilidad de éxito.
             p Como consecuencia de llevar procesos empíricos o de enfocarse en el corto plazo, no todas las empresas prospectan; no obstante, es muy importante realizar este proceso, por varias razones:
-            p Se direcciona mejor el esfuerzo comercial.
-            p Se pueden tener ahorros de costos y gastos, como resultado de la optimización del proceso comercial.
-            p.mb-0 Prospectar ayuda a tener mejores indicadores del proceso comercial, dado que se podrá conocer cuántos prospectos se tenían y cuántos se lograron concretar en la venta.
+            ol.lista-ol.ms-3
+              li 
+                span.text-bold 1. 
+                | Se direcciona mejor el esfuerzo comercial.
+              li 
+                span.text-bold 2. 
+                | Se pueden tener ahorros de costos y gastos, como resultado de la optimización del proceso comercial.
+              li 
+                span.text-bold 3. 
+                | Prospectar ayuda a tener mejores indicadores del proceso comercial, dado que se podrá conocer cuántos prospectos se tenían y cuántos se lograron concretar en la venta.
           .col-lg-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img75.svg', style="width: 400px").m-auto

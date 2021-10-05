@@ -12,15 +12,15 @@
         .row.align-items-start
           .col-lg-7
             h4 ¿Qué es el mercado?
-            p Esta es una pregunta interesante, máxime cuando, en sentido tradicional, pudiera tener la analogía con un lugar físico. Sin embargo, este concepto surge dentro de la economía como un lugar destinado al intercambio. Dicho esto, #[span.txt-deco1 el mercado es el lugar “abstracto” donde confluyen dos agentes económicos: uno de ellos tiene por objetivo vender y el otro tiene por fin comprar].
-            p No obstante, y como se verá más adelante, para el mercadeo, el mercado es el total (universo) de agentes que son de interés para una empresa. Sin embargo, dado que es relevante entender cómo funcionan los negocios, por el momento, se tratará el mercado desde la perspectiva económica.
+            p Esta es una pregunta interesante, máxime cuando, en sentido tradicional, pudiera tener la analogía con un lugar físico. Sin embargo, este concepto surge dentro de la economía como un lugar destinado al #[b intercambio]. Dicho esto, #[span.txt-deco1 el mercado es el lugar “abstracto” donde confluyen dos agentes económicos: uno de ellos tiene por objetivo vender y el otro tiene por fin comprar].
+            p No obstante, y como se verá más adelante, para el mercadeo, el #[b mercado] es el total (universo) de agentes que son de interés para una empresa. Sin embargo, dado que es relevante entender cómo funcionan los negocios, por el momento, se tratará el mercado desde la perspectiva económica.
           .col-lg-5
             figure(data-aos="fade-right")
               img(src="@/assets/curso/img6.svg", style="width: 350px").m-auto
         #t_1_1
         .titulo-segundo
           h2 1.1 Características
-        p Teniendo claro el concepto de mercado, es importante tener presentes cuáles son las características que definen un mercado desde la óptica económica, debido a que, a partir del buen entendimiento del funcionamiento de un mercado, el vendedor tendrá mejores insumos para bosquejar de la mejor manera su accionar, sobre todo en un contexto de Contact Center - BPO, donde, en ocasiones, las relaciones pueden parecer un poco distantes. 
+        p Teniendo claro el concepto de mercado, es importante tener presentes cuáles son las características que definen un mercado desde la óptica económica, debido a que, a partir del buen entendimiento del funcionamiento de un mercado, el vendedor tendrá mejores insumos para bosquejar de la mejor manera su accionar, sobre todo en un contexto de #[i Contact Center] - BPO, donde, en ocasiones, las relaciones pueden parecer un poco distantes. 
         p.mb-5 A continuación, se listan las características que se hacen presentes en un mercado:
         .row
           .col-lg-4.mb-4.mb-lg-0
@@ -49,11 +49,12 @@
     .titulo-segundo
       h2 1.2 Agentes que intervienen en el mercado
     p.mb-5 Los mercados, en sentido estricto, no operan solos, se necesita de participantes que generen la dinámica, los cuales reciben el nombre de agentes económicos. En concordancia con lo anterior, los dos agentes indispensables para que exista un mercado son:
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figure.mb-5(data-aos="fade-left")
       img(src="@/assets/curso/img7.svg", style="width: 1150px").m-auto
+    p.mb-5 El siguiente video nos presenta un panorama general sobre estos agentes, y luego profundizaremos el análisis de cada uno de ellos.
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FhjLP35MUk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.bg-color6.px-5
       .col-12
         .row.align-items-start
@@ -156,18 +157,17 @@
       li 
         .lista-ol--cuadro__vineta
           span c
-        p.mb-0 Relación entre la oferta y la demanda.
+        p.mb-0 #[b Relación entre la oferta y la demanda].
     p.mb-4 Está claro que existen dos agentes económicos: el oferente (empresario) y el demandante (consumidor), y ambos interactúan en un espacio llamado ‘mercado’. Ahora bien, el punto a resolver es entender:
     .row.justify-content-center
       .col-10
-        .cajon.color-secundario.p-4.mb-4
+        .cajon.color-secundario.p-4.mb-5
           h4 ¿Cómo se da esta relación?
-          p Cuando ambos llegan a un punto de acuerdo (o aceptan, en otros casos) sobre el precio y las cantidades, es decir, el oferente está dispuesto a ofrecer cierta cantidad de productos a un precio X y el demandante está dispuesto a adquirirlas a ese mismo precio X.
-          p.mb-0  El siguiente video nos presenta cómo se da esa relación de la oferta y la demanda.
+          p.mb-0 Cuando ambos llegan a un punto de acuerdo (o aceptan, en otros casos) sobre el precio y las cantidades, es decir, el oferente está dispuesto a ofrecer cierta cantidad de productos a un precio X y el demandante está dispuesto a adquirirlas a ese mismo precio X.
     p.mb-5 El siguiente video nos presenta cómo se da esa relación de la oferta y la demanda.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yL8rOMitHFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     SlyderB.mb-5(:datos="datosSlyder").bg-color9.p-5
     .row.justify-content-center
       .col-9
@@ -195,7 +195,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Un empresario ofrece zapatos a través de un contact center; este señor es el oferente y ofrece cada par de zapatos en $20.000.',
+          'Un empresario ofrece zapatos a través de un <i>contact center</i>; este señor es el oferente y ofrece cada par de zapatos en $20.000.',
         imagen: require('@/assets/curso/img20.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -209,7 +209,7 @@ export default {
       {
         titulo: '',
         texto:
-          'La aprendiz se contacta con el contact center, pregunta por los zapatos, y el agente (vendedor) le indica a la posible cliente el precio del bien.',
+          'La aprendiz se contacta con el <i>contact center</i>, pregunta por los zapatos, y el agente (vendedor) le indica a la posible cliente el precio del bien.',
         imagen: require('@/assets/curso/img22.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },

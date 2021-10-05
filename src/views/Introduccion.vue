@@ -34,7 +34,7 @@
                     p.mb-0.text-white ¿Cuáles son los diferentes tipos de mercado?
                   li 
                     i.lista-ul__vineta(style="color: #3E2EA6" width="1px")
-                    p.mb-0.text-white ¿Cuál es el producto?, al dimensionarlo como aquel objeto, servicio, persona, o marca que genera la transacción, y
+                    p.mb-0.text-white ¿Cuál es el producto?, al dimensionarlo como aquel objeto, servicio, persona, o marca que genera la transacción.
                   li 
                     i.lista-ul__vineta(style="color: #3E2EA6" width="1px")
                     p.mb-0.text-white Entender cómo la plaza se constituye en una variable clave para asegurar que el portafolio llegue correctamente a las manos del cliente.

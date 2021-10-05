@@ -26,7 +26,7 @@
             p.text-white.mb-4 ¿Qué permite la segmentación a las empresas? El siguiente video responde esta inquietud.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kODlxbwfCSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.bg-color12.px-5.mb-5
       .col-12
         p.mb-5 La segmentación en una empresa es importante porque:
@@ -40,31 +40,31 @@
                 figure
                   img(src='@/assets/curso/img41.svg', style="width: 50px").m-auto
               .col-10
-                p.mb-0 Permite focalizar los esfuerzos de mercadeo de una manera más óptima, es decir, permite hacer campañas diferenciadas, según las necesidades de cada segmento.
+                p.mb-0 Permite #[b focalizar los esfuerzos de mercadeo] de una manera más óptima, es decir, permite hacer campañas diferenciadas, según las necesidades de cada segmento.
             .row.mb-4
               .col-2.d-inline
                 figure
                   img(src='@/assets/curso/img42.svg', style="width: 50px").m-auto
               .col-10
-                p.mb-0 Organiza los procesos comerciales de acuerdo con el tipo de cliente, lo que genera mayor asertividad en los procesos comerciales.
+                p.mb-0 Organiza los #[b procesos comerciales] de acuerdo con el tipo de cliente, lo que genera mayor asertividad en los procesos comerciales.
             .row.mb-4
               .col-2.d-inline
                 figure
                   img(src='@/assets/curso/img43.svg', style="width: 50px").m-auto
               .col-10
-                p.mb-0 Afianza las relaciones con los clientes, debido a que los modelos de servicio al cliente se definen con base en la segmentación.
+                p.mb-0 Afianza las #[b relaciones con los clientes], debido a que los modelos de servicio al cliente se definen con base en la segmentación.
             .row.mb-4
               .col-2.d-inline
                 figure
                   img(src='@/assets/curso/img44.svg', style="width: 50px").m-auto
               .col-10
-                p.mb-0 Posibilita la creación de productos enfocados en las necesidades propias de cada grupo de clientes.
+                p.mb-0 Posibilita la #[b creación de productos] enfocados en las necesidades propias de cada grupo de clientes.
             .row
               .col-2.d-inline
                 figure
                   img(src='@/assets/curso/img69.svg', style="width: 50px").m-auto
               .col-10
-                p.mb-0 Un proceso de segmentación bien realizado, definirá cuáles son los criterios para prospectar, es decir, para seleccionar sus posibles clientes.
+                p.mb-0 Un proceso de segmentación bien realizado, definirá cuáles son los criterios para prospectar, es decir, para #[b seleccionar sus posibles clientes].
         h4.mb-4 Variables de la segmentación
         p Los procesos de segmentación son realizados por el área de Mercadeo de las empresas. Teniendo claro que realizar esta actividad no está asociado al rol de un agente de #[i Contact Center], sí es importante que las personas que trabajan en un #[i Contact Center] conozcan cuáles son las variables (características) que se tienen en cuenta para definir y caracterizar los segmentos de la empresa.
         p.mb-5 Las variables de segmentación son:

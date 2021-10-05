@@ -12,7 +12,7 @@
     p.mb-5 Lo invitamos a ver el siguiente video, el cual nos amplía el concepto de cliente.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -24,7 +24,7 @@
           .col-lg-6.p-4.bg-color19.d-flex
             .row.align-items-center
               .col-12
-                p.mb-0.text-white Sin embargo, para una persona que se desempeñará como agente de Contact Center, es importante conocer que, según el rol que ejercen en la compra, existen tres posibles clasificaciones de clientes y el usuario, los cuales se relacionan en la siguiente imagen:
+                p.mb-0.text-white Sin embargo, para una persona que se desempeñará como agente de #[i Contact Center], es importante conocer que, según el rol que ejercen en la compra, existen tres posibles clasificaciones de clientes y el usuario, los cuales se relacionan en la siguiente imagen:
         .titulo-sexto.color-acento-contenido
           p Tipos de clientes
     .row.bg-color16.px-5.mb-5
@@ -63,7 +63,7 @@
         p Con base en lo anterior, hacia 1943, Abraham Maslow, en su libro Teoría de la Motivación Humana, formuló uno de los aportes más relevantes para la historia asociado al comportamiento humano: la pirámide de Maslow.
         p En ella, se plantea que todas las personas tienen diferentes niveles de necesidades. El principio para entender las necesidades de la pirámide de Maslow es que, en un contexto general, para avanzar en la pirámide, ya se deben tener cubiertas las necesidades previas.
     figure(data-aos="fade-right")
-      img(src='@/assets/curso/img66.svg', style="width: 1100px").m-auto
+      img(src='@/assets/curso/img66.svg', style="width: 1300px").m-auto
 
 
 </template>

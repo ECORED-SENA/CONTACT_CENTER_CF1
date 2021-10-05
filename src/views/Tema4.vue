@@ -9,13 +9,11 @@
       h1 Producto
     .row.bg-color16.px-5.mb-5
       .col-12
-        p.mb-4 Previamente, cuando se estaba detallando sobre la mezcla de mercadeo (marketing mix), se hacía mención al producto. Aún teniendo presente que el centro de la venta es el cliente, el producto es sumamente importante, porque es justamente el objeto de la transacción, es decir, sin producto no hay mercado ni mercadeo.
+        p.mb-4 Previamente, cuando se estaba detallando sobre la mezcla de mercadeo (#[i marketing mix]), se hacía mención al producto. Aún teniendo presente que el centro de la venta es el cliente, el producto es sumamente importante, porque es justamente el objeto de la transacción, es decir, sin producto no hay mercado ni mercadeo.
         .row.justify-content-center.mb-5
           .col-10
             .cajon.color-secundario.p-4
-              p ¿Cómo se da esta relación?
-              p Cuando ambos llegan a un punto de acuerdo (o aceptan, en otros casos) sobre el precio y las cantidades, es decir, el oferente está dispuesto a ofrecer cierta cantidad de productos a un precio X y el demandante está dispuesto a adquirirlas a ese mismo precio X.
-              p.mb-0 El siguiente video nos presenta cómo se da esa relación de la oferta y la demanda.
+              p.mb-0 Tradicionalmente, el producto era entendido como algo que se podía tocar. Sin embargo, gracias a la evolución del mercadeo, ahora es posible comercializar casi todo; por lo que en el mercadeo moderno, el producto es la palabra genérica que hace referencia a todo aquello que es susceptible de venderse. No obstante, existen ciertos tipos de productos, los cuales pueden revisarse en el siguiente recurso de aprendizaje:
         .row.align-items-center.mb-5
           .col-lg-6
             LineaTiempoD.color-secundario
