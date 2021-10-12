@@ -12,7 +12,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Kotler y Armstrong (2007, p. 4) definen el mercadeo como “el proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes.
         p De acuerdo con esta definición, el mercadeo es el proceso enmarcado en la responsabilidad social de una empresa de generar las estrategias necesarias para garantizar la venta de los productos, apuntando a la sostenibilidad de la misma; por ende, es el área a cuyo cargo se encuentra el diseño e implementación de las acciones necesarias para satisfacer las necesidades de los clientes de la forma más asertiva y rentable posible.
-        p El mercadeo (o marketing, en inglés) es un proceso que cada vez cobra más relevancia dentro de las organizaciones, porque toda empresa, sin importar su actividad económica o tamaño (micro, pequeña, mediana o grande), necesita que su portafolio sea adquirido por los clientes, es decir, retomando los aspectos anteriores, que sus bienes y servicios tengan demanda en el mercado.
+        p El mercadeo (o #[i marketing], en inglés) es un proceso que cada vez cobra más relevancia dentro de las organizaciones, porque toda empresa, sin importar su actividad económica o tamaño (micro, pequeña, mediana o grande), necesita que su portafolio sea adquirido por los clientes, es decir, retomando los aspectos anteriores, que sus bienes y servicios tengan demanda en el mercado.
       .col-lg-6
         figure(data-aos="fade-right")
           img(src="@/assets/curso/img27.svg", style="width: 450px").m-auto
@@ -36,10 +36,10 @@
             figure.mt-4.mb-5
               img(src="@/assets/curso/img32.svg", style="width: 220px").m-auto
             p.my-5 #[b Comunica] la marca y los productos de la empresa. A través de las acciones de mercadeo, el producto es conocido en diferentes lugares de forma simultánea.
-    #t_2_1
+    #t_2_1.mt-5
     .titulo-segundo
       h2 2.1 Historia
-    p.mb-5 El marketing no es una ciencia exacta, por tanto, según los autores que se consulte, se podrán encontrar tantas fases como momentos históricos se piensen; algunos incluso mencionan que el mercadeo comenzó antes de Cristo, con el trueque. No obstante, se podrían definir algunos hitos (momentos claves, que impactan) sobre cómo el mercadeo ha ido evolucionando a lo largo del tiempo, a través del siguiente recurso.
+    p.mb-5 El #[i marketing] no es una ciencia exacta, por tanto, según los autores que se consulte, se podrán encontrar tantas fases como momentos históricos se piensen; algunos incluso mencionan que el mercadeo comenzó antes de Cristo, con el trueque. No obstante, se podrían definir algunos hitos (momentos claves, que impactan) sobre cómo el mercadeo ha ido evolucionando a lo largo del tiempo, a través del siguiente recurso.
     .tarjeta.tarjeta--gris.p-4
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="Enfocado en la producción").align-items-start
