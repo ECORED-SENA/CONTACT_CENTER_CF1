@@ -16,7 +16,7 @@
     p.mb-5 Lo invitamos a ver el siguiente video, para conocer más sobre los canales de distribución.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jln7JsbFbPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 #[b Las estrategias de distribución] tienen estrecha relación con los canales y hacen referencia a la forma en que las empresas se plantean cómo llegarán a sus clientes. A nivel de mercadeo, se distinguen dos estrategias, que pueden ser complementarias, porque, dependiendo del tipo de producto y de los recursos económicos de las empresas, se pueden implementar:
     .row.justify-content-center
       .col-lg-9.mb-5
