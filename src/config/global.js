@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Conociendo y entendiendo el mercado y los clientes',
+    componenteFormativo: 'Entendiendo el mercado y los clientes',
     descripcionCurso:
       'No existe una venta exitosa sin entender que esta, además de ser una transacción, es un proceso que debe verse como una relación gana- gana, donde el cliente obtiene aquello que necesita y la empresa recibe a cambio una retribución llamada “precio”. Este componente tiene como fin suministrar los conceptos necesarios para gestionar un buen proceso comercial.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),

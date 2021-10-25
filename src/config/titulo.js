@@ -1,1 +1,1 @@
-module.exports = 'Conociendo y entendiendo el mercado y los clientes'
+module.exports = 'Entendiendo el mercado y los clientes'

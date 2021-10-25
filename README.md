@@ -1,4 +1,4 @@
-# **Conociendo y entendiendo el mercado y los clientes**
+# **Entendiendo el mercado y los clientes**
 
 ## **Enlace GitHubPages**
 
