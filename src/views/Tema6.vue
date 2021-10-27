@@ -12,7 +12,7 @@
     p.mb-5 Lo invitamos a ver el siguiente video, el cual nos amplía el concepto de cliente.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Rvb4Bc_1aBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
