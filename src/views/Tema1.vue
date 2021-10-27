@@ -112,35 +112,35 @@
           p.mb-0 La demanda está compuesta por la cantidad de agentes dispuestos a adquirir bienes y servicios en un mercado determinado, teniendo como premisa base el precio de cada unidad.
     p.mb-5 Es así como los factores que determinan la demanda son:
     .row.mb-5.justify-content-center
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+      .col-lg-6.col-xl-2.mb-4.mb-lg-4.mb-xl-0
         .tarjeta--boton.color-primario.p-3.bg-color8
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/img13.svg', style="width: 30px").m-auto
           h3.text-center Los ingresos
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+      .col-lg-6.col-xl-2.mb-4.mb-lg-4.mb-xl-0
         .tarjeta--boton.color-primario.p-3.bg-color8
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/img14.svg', style="width: 40px").m-auto
           h3.text-center Los gustos
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+      .col-lg-6.col-xl-2.mb-4.mb-lg-4.mb-xl-0
         .tarjeta--boton.color-primario.p-3.bg-color8
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/img15.svg', style="width: 35px").m-auto
           h3.text-center Las expectativas
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+      .col-lg-6.col-xl-2.mb-4.mb-lg-4.mb-xl-0
         .tarjeta--boton.color-primario.p-3.bg-color8
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/img16.svg', style="width: 35px").m-auto
           h3.text-center El precio de los bienes relacionados
-    p.mb-5 Desde la perspectiva de la demanda, surge el concepto de ‘Ley de la demanda’, entendida cómo la lógica de los consumidores, es decir, desde esta vista, el consumidor está dispuesto a adquirir muchas más unidades del bien, mientras más bajo sea el precio.
+    p.mb-5 Desde la perspectiva de la demanda, surge el concepto de ‘Ley de la demanda’, entendida como la lógica de los consumidores, es decir, desde esta vista, el consumidor está dispuesto a adquirir muchas más unidades del bien, mientras más bajo sea el precio.
     .row.bg-color7.px-5.mb-4
       .col-12
         .row.align-items-start.justify-content-center.py-5
@@ -202,7 +202,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Por otro lado, una aprendiz quiere comprar zapatos; ella es la demandante, ya que es quien requiere los productos. Para este caso hipotético, ella sólo cuenta con un presupuesto de $16.000.',
+          'Por otro lado, una aprendiz quiere comprar zapatos; ella es la demandante, ya que es quien requiere los productos. Para este caso hipotético, ella solo cuenta con un presupuesto de $16.000.',
         imagen: require('@/assets/curso/img21.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
